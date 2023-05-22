@@ -1,0 +1,7 @@
+{
+  "name": "quasarApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
